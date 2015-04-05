@@ -1,7 +1,7 @@
 ------------------------
 -- SHA-1 Core
 --adspirop@gmail.com
---
+--https://github.com/adspirop/
 -------------------------
 LIBRARY IEEE;
 USE IEEE.std_logic_1164.ALL;
